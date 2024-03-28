@@ -1,7 +1,9 @@
 - 👋 Hi, My Name is Felipe
-- 🎓I'm currently pursuing a Bachelor's with a Major in Information Systems (Universidade Federal de Santa catarina)
+- ⭐ I was born in Brazil, but lived in Maryland🇺🇸🦅 for a couple of years i speak native English/Portuguese
+- 🎓 I'm currently pursuing a Bachelor's with a Major in Information Systems (Universidade Federal de Santa catarina)
 - 🌱 CLEAN CODE
 
+SKILLS ⚡
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
