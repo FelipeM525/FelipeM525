@@ -1,6 +1,7 @@
 - 👋 Hi, My Name is Felipe
 - ⭐ I was born in Brazil, but lived in Maryland🇺🇸🦅 for a couple of years i speak native English/Portuguese
 - 🎓 I'm currently pursuing a Bachelor's with a Major in Information Systems (Universidade Federal de Santa catarina)
+- :cloud: I'm very passionate about Distributed systems and microservices
 - 🌱 CLEAN CODE
 
 SKILLS ⚡
